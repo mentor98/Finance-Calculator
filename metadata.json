@@ -1,0 +1,6 @@
+{
+  "name": "Finance Calculator Suite",
+  "description": "Comprehensive financial calculations suite featuring loan, mortgage, savings, compound interest, investment projection calculators, and real-time currency conversion with amortization schedules and visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
