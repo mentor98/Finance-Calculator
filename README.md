@@ -1,4 +1,4 @@
-# Finance Calculator Suite
+# Finance Calculator
 
 A modern, comprehensive suite of financial planning calculators and projection tools built with React 19, TypeScript, Tailwind CSS, and Recharts. Designed with a clean **Geometric Balance** interface, responsive visual charts, full amortization schedules, scenario comparison, and real-time currency conversion.
 
